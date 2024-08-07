@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ELECTRO-OHMICS LIMITED
+title: Tall Trees Construction
 email: electro.ohmics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   test for business.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /Tall-Trees-Construction # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: ELECTRO-OHMICS LIMITED
+company_name: Tall Trees Construction
 address_line: Department of Biomedical Engineering, City University of Hong Kong, Rm. Y1411, 83 Tat Chee Avenue, Kowloon
 telephone_number: coming soon
 company_email: electro.ohmics@gmail.com
