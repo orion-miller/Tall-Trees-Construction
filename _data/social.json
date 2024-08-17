@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/cdds-at-uiuc",
-    "image": "images/social/github.svg"
+    "name": "Email",
+    "link": "mailto:talltreesconstruction@gmail.com",
+    "image": "images/social/envelope-solid.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/cristiproist",
-    "image": "images/social/twitter.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/",
+    "image": "images/social/facebook-brands-solid.svg"
   }
 ]
