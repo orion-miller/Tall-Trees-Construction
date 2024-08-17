@@ -1,0 +1,27 @@
+main:
+  - name: "Research"
+    url: "/research/"
+    weight: 2
+  - name: "Group"
+    url: "/group/"
+    weight: 3
+  - name: "Publications"
+    url: "/pubs/"
+    weight: 4
+  - name: "Events"
+    url: "/events/"
+    weight: 5
+  - name: "Classes"
+    url: "/classes/"
+    weight: 6
+  - name: "Contact"
+    url: "/contact/"
+    weight: 7
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

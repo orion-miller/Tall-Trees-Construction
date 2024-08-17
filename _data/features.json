@@ -1,0 +1,29 @@
+[
+  {
+    "title": "New Paper by CDDS@UIUC!",
+    "description": "Adam and Cristi's climate economics paper was accepted to Climatic Change!",
+    "image": {
+      "url": "images/features/newspaper.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "New members joining CDDS@UIUC!",
+    "description": "Maile and Pappu joined in Fall 2022 as Ph.D. students.",
+    "image": {
+      "url": "images/features/baby.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "CDDS members talking at AGU 2022!",
+    "description": "Adam and Rachel will be giving talks at AGU's fall meeting in Chicago this year.",
+    "image": {
+      "url": "images/features/microphone.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
