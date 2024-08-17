@@ -5,13 +5,6 @@ description: Services
 bodyClass: page-about
 ---
 
-### xyz
-
----
-
-## SERVICES
-
-
 Transform Your Living Space with Confidence
 
 Are you stepping into a new space or starting a fresh chapter in your life? When you look at your home or property, is it missing features needed to match your current lifestyle?
