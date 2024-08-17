@@ -8,13 +8,7 @@ main:
   - name: "Publications"
     url: "/pubs/"
     weight: 4
-  - name: "Events"
-    url: "/events/"
-    weight: 5
-  - name: "Classes"
-    url: "/classes/"
-    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 7
+    weight: 5
 
