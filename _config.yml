@@ -29,9 +29,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "home"
     values:
-      layout: "service"
+      layout: "home"
   - scope:
       path: ""
       type: "team"
@@ -39,14 +39,14 @@ defaults:
       layout: "team"
   - scope:
       path: ""
-      type: "events"
+      type: "services"
     values:
-      layout: "event"
+      layout: "services"
   - scope:
       path: ""
-      type: "classes"
+      type: "contact"
     values:
-      layout: "class"
+      layout: "contact"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
