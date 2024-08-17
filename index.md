@@ -1,5 +1,5 @@
 ---
-title: CDDS @ UIUC
+title: Tall Trees Construction
 layout: home
 description: The Climate Dynamics and Data Science group at the University of Illinois at Urbana Champaign.
 intro_image: "images/illustrations/main_page_image_2.svg"
