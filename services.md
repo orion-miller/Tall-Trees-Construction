@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Tall Trees - Services
 layout: page
 description: Services
 bodyClass: page-about

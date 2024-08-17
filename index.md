@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Tall Trees - Home
 layout: home
 description: Home
 intro_image: "images/illustrations/main_page_image_2.svg"
