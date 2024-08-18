@@ -5,11 +5,6 @@ description: Services
 bodyClass: page-about
 ---
 
-Transform Your Living Space with Confidence
-
-Are you stepping into a new space or starting a fresh chapter in your life? When you look at your home or property, is it missing features needed to match your current lifestyle?
-
-Tall Trees Construction provides exceptional and attentive service throughout your experience, ensuring the process is as enjoyable as the final product.
 
 ---
 
