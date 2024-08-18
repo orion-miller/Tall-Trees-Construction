@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# Tall Trees Construction
+<!-- # Tall Trees Construction -->
 
 ## ABOUT 
 
@@ -20,6 +20,11 @@ At Tall Trees Construction, we navigate these challenges differently.
 
 Consistent communication and realizing your vision are the foundation of our partnership. With us, the experience of building your project is filled with attentive care, meticulous attention to detail, and regular contact.
 
+### Transform Your Living Space with Confidence
+
+Are you stepping into a new space or starting a fresh chapter in your life? When you look at your home or property, is it missing features needed to match your current lifestyle?
+
+Tall Trees Construction provides exceptional and attentive service throughout your experience, ensuring the process is as enjoyable as the final product.
 
 
 

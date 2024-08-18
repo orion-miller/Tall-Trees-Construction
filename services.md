@@ -17,7 +17,7 @@ Tall Trees Construction provides exceptional and attentive service throughout yo
 
 We work in Cambridge, Kitchener, Waterloo, Guelph, and the surrounding areas.
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
 <style type="text/css">
@@ -29,8 +29,8 @@ iframe {
 </style>
 </head>
 <iframe src="https://www.google.com/maps/d/embed?mid=1mbwJxbS8enwxUV3e1HZ67vCCPrr4tRk&ehbc=2E312F"></iframe>
-</html>
+</html> -->
 
 
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1mbwJxbS8enwxUV3e1HZ67vCCPrr4tRk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 

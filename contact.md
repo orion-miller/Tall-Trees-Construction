@@ -31,4 +31,4 @@ Contact us for more information on new construction, design-build projects & any
 
 Please let us know what's on your mind. Have a question for us? Ask away.
 
-{% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+<!-- {% if page.forms[0] %}{% include form.html form="1" %}{% endif %} -->
