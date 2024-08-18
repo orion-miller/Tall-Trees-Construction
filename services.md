@@ -1,5 +1,5 @@
 ---
-title: Tall Trees - Services
+title: Services
 layout: page
 description: Services
 bodyClass: page-about
@@ -14,6 +14,8 @@ Tall Trees Construction provides exceptional and attentive service throughout yo
 ---
 
 ## SERVICE AREA
+
+We work in Cambridge, Kitchener, Waterloo, Guelph, and the surrounding areas.
 
 <!DOCTYPE html>
 <html>

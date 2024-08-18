@@ -1,5 +1,5 @@
 ---
-title: Tall Trees - Portfolio
+title: Portfolio
 layout: page
 description: Portfolio
 bodyClass: page-about
