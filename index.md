@@ -20,14 +20,7 @@ At Tall Trees Construction, we navigate these challenges differently.
 
 Consistent communication and realizing your vision are the foundation of our partnership. With us, the experience of building your project is filled with attentive care, meticulous attention to detail, and regular contact.
 
-## PORTFOLIO
 
 
-Project Portfolio
 
-Our Project Portfolio Speaks for Itself
-
-Dive into our extensive Project Portfolio and discover the breadth of our expertise. Each photograph tells a story of innovation, attention to detail, and a commitment to quality that has become our signature. Whether you’re seeking inspiration for your next outdoor construction project or indoor renovation or want to see the calibre of our work, our portfolio is your window into the possibilities that await with Tall Trees Construction.
-
-
-## TESTIMONIALS - flip style moving gallery
+<!-- ## TESTIMONIALS - flip style moving gallery -->
