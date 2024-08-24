@@ -3,7 +3,7 @@
     "title": "Experience",
     "description": "40+ years!",
     "image": {
-      "url": "images/features/keyboard_double_arrow_up_100dp_000000_FILL0_wght400_GRAD0_opsz48.svg",
+      "url": "images/features/keyboard_double_arrow_up_100dp_FFFFFF_FILL0_wght400_GRAD0_opsz48.svg",
       "width": 80,
       "height": 80
     }
@@ -12,7 +12,7 @@
     "title": "Communication",
     "description": "Honest assessments and frequent updates",
     "image": {
-      "url": "images/features/phone_in_talk_100dp_000000_FILL0_wght400_GRAD0_opsz48.svg",
+      "url": "images/features/phone_in_talk_100dp_FFFFFF_FILL0_wght400_GRAD0_opsz48.svg",
       "width": 80,
       "height": 80
     }
@@ -21,7 +21,7 @@
     "title": "Value",
     "description": "High quality work with reasonable prices",
     "image": {
-      "url": "images/features/attach_money_100dp_000000_FILL0_wght400_GRAD0_opsz48.svg",
+      "url": "images/features/attach_money_100dp_FFFFFF_FILL0_wght400_GRAD0_opsz48.svg",
       "width": 80,
       "height": 80
     }

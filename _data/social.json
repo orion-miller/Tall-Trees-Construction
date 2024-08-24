@@ -3,10 +3,5 @@
     "name": "Email",
     "link": "mailto:talltreesconstruction@gmail.com",
     "image": "images/social/envelope-solid.svg"
-  },
-  {
-    "name": "Facebook",
-    "link": "https://www.facebook.com/",
-    "image": "images/social/facebook-brands-solid.svg"
   }
 ]
