@@ -1,14 +1,14 @@
 ---
 # title: About
-layout: page # was "home" previously
+layout: home
 description: About
-# intro_image: "images/stock/blueprints.JPG"
-# intro_image_absolute: true
-# intro_image_hide_on_mobile: false
+intro_image: "images/portfolio/Shed/Shed 2.JPG"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-# About
+<!-- # About -->
 
 Encountering Contractor Hassles? Let’s Navigate Them Together.
 
@@ -26,6 +26,6 @@ Tall Trees Construction provides exceptional and attentive service throughout yo
 
 Please let us know what's on your mind. Have a question for us? [Ask away](/contact.md)!
 
-![](/images/portfolio/Shed/Shed 2.JPG)
+<!-- ![](/images/portfolio/Shed/Shed 2.JPG) -->
 
 <!-- ## TESTIMONIALS - flip style moving gallery -->
