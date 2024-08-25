@@ -2,8 +2,8 @@
 ---
 
 // Colors
-$primary: #ea9d5e;
-$primary-dark: #584435;
+$primary: #1fbb22;
+$primary-dark: #015800;
 $secondary: #26517d;
 $white: #ffffff; 
 $black: #2f2f41; 
@@ -11,7 +11,7 @@ $steel: #5c5a5a;
 $white-offset: #fedfc6; 
 
 // Links
-$link-color: $primary-dark;
+$link-color: #0000FF;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
@@ -23,7 +23,8 @@ $font-family-heading: "Merriweather Regular", serif, -apple-system;
 // Footer
 $footer-background-color: $primary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+// $sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: $primary;
 $sub-footer-text-color: $white;
 
 // Bootstrap
