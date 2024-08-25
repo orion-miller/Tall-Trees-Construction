@@ -1,6 +1,6 @@
 ---
 # title: About
-layout: home
+layout: page # was "home" previously
 description: About
 # intro_image: "images/stock/blueprints.JPG"
 # intro_image_absolute: true
