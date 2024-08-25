@@ -1,7 +1,7 @@
 ---
-title: Home
+title: About
 layout: home
-description: Home
+description: About
 intro_image: "images/stock/blueprints.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
