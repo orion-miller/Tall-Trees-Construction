@@ -26,6 +26,6 @@ Are you stepping into a new space or starting a fresh chapter in your life? When
 
 Tall Trees Construction provides exceptional and attentive service throughout your experience, ensuring the process is as enjoyable as the final product.
 
-
+Please let us know what's on your mind. Have a question for us? Ask away.
 
 <!-- ## TESTIMONIALS - flip style moving gallery -->
