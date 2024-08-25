@@ -5,10 +5,15 @@
 $primary: #f4a462;
 $primary-dark: #e3823d;
 $secondary: #26517d;
-$white: #ffffff; 
-$black: #2f2f41; 
-$steel: #5c5a5a; 
-$white-offset: #fedfc6; 
+//overwriting these to switch to dark theme
+// $white: #ffffff; 
+// $black: #2f2f41; 
+// $steel: #5c5a5a; 
+// $white-offset: #fedfc6; 
+$white: #2f2f41; 
+$black: #ffffff; 
+$steel: #fedfc6; 
+$white-offset: #5c5a5a; 
 
 // Links
 $link-color: $primary-dark;
