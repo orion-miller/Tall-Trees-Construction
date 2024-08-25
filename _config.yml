@@ -4,11 +4,11 @@ title: 'Tall Trees Construction'
 
 logo:
   mobile: "images/logo/TallTreesLogo.png"
-  mobile_height: "32px"
-  mobile_width: "240px"
+  mobile_height: "21px"
+  mobile_width: "160px"
   desktop: "images/logo/TallTreesLogo.png"
-  desktop_height: "32px"
-  desktop_width: "240px"
+  desktop_height: "21px"
+  desktop_width: "160px"
 
 home: 
   limit_services: 6
