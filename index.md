@@ -1,5 +1,5 @@
 ---
-title: About
+# title: About
 layout: home
 description: About
 intro_image: "images/stock/blueprints.JPG"
@@ -10,7 +10,7 @@ show_call_box: false
 
 <!-- # Tall Trees Construction -->
 
-## ABOUT 
+# ABOUT 
 
 Encountering Contractor Hassles? Let’s Navigate Them Together.
 
