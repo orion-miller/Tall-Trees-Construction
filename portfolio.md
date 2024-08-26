@@ -25,14 +25,14 @@ Dive into our extensive Project Portfolio and discover the breadth of our expert
 ### Cottage
 {% include image-gallery.html folder="/images/portfolio/Cottage" %}
 
-### Bunkie
-{% include image-gallery.html folder="/images/portfolio/Bunkie" %}
-
 ### Shed
 {% include image-gallery.html folder="/images/portfolio/Shed" %}
 
-### Rough-In
-{% include image-gallery.html folder="/images/portfolio/Rough-In" %}
-
 ### More Home Builds
 {% include image-gallery.html folder="/images/portfolio/More Home Builds" %}
+
+### Bunkie
+{% include image-gallery.html folder="/images/portfolio/Bunkie" %}
+
+### Rough-In
+{% include image-gallery.html folder="/images/portfolio/Rough-In" %}

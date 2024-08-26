@@ -2,7 +2,7 @@
 # title: About
 layout: home
 description: About
-intro_image: "images/portfolio/Main.jpeg"
+intro_image: "images/Main.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: false
