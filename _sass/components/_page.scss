@@ -5,4 +5,41 @@
   .wrapper {
     flex: 1 0 0;
   }
+  h1 {
+    color: $white;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.2;
+    @include media-breakpoint-up(md) {
+      width: 80%;
+      font-size: 48px;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 50px;
+    }
+  }
+  h2 {
+    width: 80%;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin-bottom: 30px;
+    color: $white;
+    font-family: $font-family-base;
+  }
+  h3 {
+    color: $white;
+    font-family: $font-family-base;
+  }    
+  h4 {
+    color: $white;
+    font-family: $font-family-base;
+  }  
+  h5 {
+    color: $white;
+    font-family: $font-family-base;
+  } 
+  h6 {
+    color: $white;
+    font-family: $font-family-base;
+  }   
 }
