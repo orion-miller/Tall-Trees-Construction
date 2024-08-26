@@ -13,8 +13,11 @@ Dive into our extensive Project Portfolio and discover the breadth of our expert
 ### Home Build 2
 {% include image-gallery.html folder="/images/portfolio/Home Build 2" %}
 
-### Home Build 3
-{% include image-gallery.html folder="/images/portfolio/Home Build 3" %}
+### Spiral Staircase
+{% include image-gallery.html folder="/images/portfolio/Spiral Staircase" %}
+
+### Basement
+{% include image-gallery.html folder="/images/portfolio/Basement" %}
 
 ### Sauna
 {% include image-gallery.html folder="/images/portfolio/Sauna" %}

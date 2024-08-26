@@ -3,7 +3,7 @@
 
 // Colors
 $primary: #1fbb22;
-$primary-dark: #015800;
+$primary-dark: #015200;
 $secondary: #26517d;
 $white: #ffffff; 
 $black: #21212c; 
@@ -13,7 +13,7 @@ $white-offset: #fedfc6;
 // Links
 $link-color: #00c3ff;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
+$link-hover-color: lighten($link-color, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
