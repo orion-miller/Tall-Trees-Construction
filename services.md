@@ -5,7 +5,7 @@ description: Services
 bodyClass: page-about
 ---
 
-We offer a wide range of services, from small projects like sheds, basement framing, and rough-in, to full builds of homes and cottages. See our portfolio for examples of our work.
+We offer a wide range of services, from smaller projects like sheds, basement framing, and rough-in, to full builds of homes and cottages. See our portfolio for examples of our work.
 
 <!-- --- -->
 
