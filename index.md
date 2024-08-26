@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: false
 show_call_box: false
 ---
 
-<!-- # About -->
+# About
 
 Encountering Contractor Hassles? Let’s Navigate Them Together.
 
@@ -25,8 +25,6 @@ Are you stepping into a new space or starting a fresh chapter in your life? When
 Tall Trees Construction provides exceptional and attentive service throughout your experience, ensuring the process is as enjoyable as the final product.
 
 Please let us know what's on your mind. Have a question for us? [Ask away](/contact.md)!
-
-#### Test
 
 <!-- ![](/images/portfolio/Shed/Shed 2.JPG) -->
 
