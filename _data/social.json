@@ -1,7 +1,7 @@
 [
   {
     "name": "Email",
-    "link": "mailto:talltreesconstruction@gmail.com",
+    "link": "mailto:talltreesconstruction@gmail.com?subject=Project%20Inquiry",
     "image": "images/social/envelope-solid.svg"
   }
 ]
