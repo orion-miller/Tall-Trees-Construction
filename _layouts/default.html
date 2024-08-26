@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title | prepend: "Tall Trees - " }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.title and page.title != "About" %}{{ page.title | prepend: "Tall Trees - " }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" type="image/png" href="{{ '/images/logo/house_32dp_1FBB22_FILL0_wght400_GRAD0_opsz40.png' | relative_url }}">
   <!-- Google Fonts CDN -->
