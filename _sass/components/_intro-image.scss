@@ -1,5 +1,5 @@
 .intro-image {
-  width: 100%;
+  width: 75%;
   height: auto;
   margin-top: -40px;
 }
@@ -28,8 +28,9 @@
   }
 }
 .intro-image-hide-mobile {
-  display: none;
-  @include media-breakpoint-up(md) {
-    display: block;
-  }
+  width: 100%;
+  // display: none;
+  // @include media-breakpoint-up(md) {
+  //   display: block;
+  // }
 }
