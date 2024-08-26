@@ -29,9 +29,9 @@
 }
 .intro-image-hide-mobile {
   // width: 100%;
-  // margin-bottom: 30px;  
-  display: none;
-  @include media-breakpoint-up(md) {
-    display: block;
-  }
+  padding-top: 30px; //add padding if on mobile
+  // display: none;
+  // @include media-breakpoint-up(md) {
+  //   display: block;
+  // }
 }

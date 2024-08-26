@@ -4,7 +4,7 @@ layout: home
 description: About
 intro_image: "images/Main.jpeg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true #repurposed to add padding at top on mobile
 show_call_box: false
 ---
 
