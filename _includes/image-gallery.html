@@ -22,7 +22,7 @@
       <a href="{{ filepath | prepend: baseurl }}" title="{{ filename }}">
         <img src="//images.weserv.nl/?url={{ filepath | prepend: baseurl }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" /> <!-- Adjusting for custom domain-->
         <!-- <img src="//images.weserv.nl/?url=orion-miller.github.io{{ file.path | prepend: baseurl }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />         -->
-        <!-- <span>{{ filename }}</span> -->
+        <span>{{ filepath }}</span>
       </a>
     {% endif %}
   {% endif %}
