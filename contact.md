@@ -29,6 +29,6 @@ description: Contact
 
 Contact us for more information on new construction, design-build projects & any other services! 
 
-
+<img src="images/business_card.png" style="width: 50%;">
 
 <!-- {% if page.forms[0] %}{% include form.html form="1" %}{% endif %} -->
