@@ -27,8 +27,8 @@ description: Contact
 #         required: true
 ---
 
-<img src="/images/business_card.png" style="width: 100%;">
-
 Contact us for more information on new construction, design-build projects & any other services! 
+
+<img src="/images/business_card.png" style="width: 100%;">
 
 <!-- {% if page.forms[0] %}{% include form.html form="1" %}{% endif %} -->
