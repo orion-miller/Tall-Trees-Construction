@@ -10,7 +10,20 @@ show_call_box: false
 
 # Exceptional Service. Solid Structures.
 
-Encountering Contractor Hassles? Let’s Navigate Them Together.
+Encountering contractor hurdles? Let’s navigate them together. At Tall Trees Construction, we eliminate the stress of building by prioritizing communication, timely results, and a collaborative respect for your vision.
+
+With *30 years of local expertise*, we specialize in high-quality builds including:
+- **Custom Retreats:** Cabins, Saunas, and Bunkies.
+- **Functional Spaces:** Garages, Sheds, and Outbuildings.
+- **Indoor Updates:** Rough-in, Basement Framing, and Interior Walls.
+
+Are you starting a fresh chapter or looking to enhance your property’s utility? We can help turn your ideas into reality. [Let us know what’s on your mind](/contact.md)!
+
+
+
+<!-- # About -->
+
+<!-- Encountering Contractor Hassles? Let’s Navigate Them Together.
 
 Finding a reliable contracting partner who understands and delivers on your vision can be challenging.
 
@@ -20,5 +33,5 @@ Are you stepping into a new space or starting a fresh chapter in your life? When
 
 Tall Trees Construction provides exceptional and attentive service throughout your experience, ensuring the process is as enjoyable as the final product.
 
-Please let us know what's on your mind. Have a question for us? [Ask away](/contact.md)!
+Please let us know what's on your mind. Have a question for us? [Ask away](/contact.md)! -->
 
