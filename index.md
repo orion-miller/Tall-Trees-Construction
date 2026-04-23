@@ -14,9 +14,11 @@ Encountering contractor hurdles? Let’s navigate them together. At Tall Trees C
 
 With *30 years of local expertise*, we specialize in high-quality builds including:
 
-- **Custom Retreats:** Cabins, Saunas, and Bunkies.
-- **Functional Spaces:** Garages, Sheds, and Outbuildings.
-- **Indoor Updates:** Rough-in, Basement Framing, and Interior Walls.
+**Custom Retreats:** Cabins, Saunas, and Bunkies
+
+**Functional Spaces:** Garages, Sheds, and Outbuildings
+
+**Indoor Updates:** Rough-in, Basement Framing, and Interior Walls
 
 Are you starting a fresh chapter or looking to enhance your property’s utility? We can help turn your ideas into reality. [Let us know what’s on your mind](/contact.md)!
 
